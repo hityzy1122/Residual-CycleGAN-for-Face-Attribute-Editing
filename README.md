@@ -5,13 +5,13 @@ Face attributes describe the variation of face components. Its complexity and va
 details from scratch. To preserve the identity information before and after editing, L1 loss, total variation loss (TV loss) and identity-preserving loss (IP-loss) are incorporated into the training of generation jointly. Experiments on the CelebA dataset demonstrate the efciency of the proposed method, and the residual learning corresponded with IP-loss can help to editing the face attribute on high-resolution images with identity information and facial details preserved.
 
 ## Framework
-![image] (https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/framework1.jpg)
+![image](https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/framework1.jpg)
 
 
-![image] (https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/loss.jpg)
+![image](https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/loss.jpg)
 
 ## Experiment results on CelebA
-![image] (https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/results.jpg)
+![image](https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/results.jpg)
 
-![image] (https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/result2.jpg)
+![image](https://github.com/YU-Zhiyang/Residual-CycleGAN-for-Identity-preserving-Face-Attribute-Editing/blob/master/readme/result2.jpg)
 
